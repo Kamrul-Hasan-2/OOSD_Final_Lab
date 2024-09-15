@@ -1,13 +1,13 @@
 # Tema Information
 
-## Name : Md  Naimur Hasan
-## ID : 221071022
+#### Name : Md  Naimur Hasan
+#### ID : 221071022
 
-## Name : Munia Zaman Mim
-## ID : 221071028
+#### Name : Munia Zaman Mim
+#### ID : 221071028
 
-## Name : Md Kamrul Hasan
-## ID : 221071001
+#### Name : Md Kamrul Hasan
+#### ID : 221071001
 
 
 # Registration UI 
